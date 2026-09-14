@@ -6,7 +6,14 @@
     <groupId>com.fiap.bank</groupId>
     <artifactId>fiap-bank-atm</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>domain</module>
+        <module>application</module>
+        <module>infrastructure</module>
+        <module>presentation</module>
+    </modules>
 
     <name>fiap-bank-atm</name>
     <description>Emulador de Caixa Eletrônico (ATM) em Java Swing com DDD</description>
