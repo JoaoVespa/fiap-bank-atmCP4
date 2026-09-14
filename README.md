@@ -10,6 +10,12 @@
 
 ---
 
+## 👥 Desenvolvedor
+
+* **Nome:** [João Marcelo Diniz Vespa] | **RM:** [564038]
+
+---
+
 ## 📌 Visão Geral
 
 O **FIAP Bank ATM** é um emulador interativo de Caixa Eletrônico de alta fidelidade visual e comportamental. Desenvolvido para simular a experiência real de operação de um terminal bancário autoatendimento, o sistema oferece desde a validação de segurança de cartões/PIN até a dispensação simulada de cédulas e impressão de extrato térmico em popup.
